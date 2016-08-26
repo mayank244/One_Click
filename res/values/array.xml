@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="my_contacts">
+        <item>ram</item>
+        <item>shyam</item>
+        <item>sudhir</item>
+        <item>sunil</item>
+        <item>prakash</item>
+        <item>mayank</item>
+        <item>shubham</item>
+        <item>kirti</item>
+        <item>swati</item>
+        <item>rajat</item>
+        <item>shefali</item>
+        <item>naman</item>
+        <item>pranshu</item>
+        <item>shashank</item>
+        <item>raman</item>
+        <item>harsh</item>
+        <item>home</item>
+        <item>jay</item>
+        <item>veeru</item>
+        <item>basanti</item>
+        <item>mausi</item>
+        <item>radha</item>
+    </string-array>
+
+</resources>
